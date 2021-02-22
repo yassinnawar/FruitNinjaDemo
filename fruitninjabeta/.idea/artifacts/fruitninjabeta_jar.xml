@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fruitninjabeta:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fruitninjabeta_jar</output-path>
+    <root id="archive" name="fruitninjabeta.jar">
+      <element id="module-output" name="fruitninjabeta" />
+    </root>
+  </artifact>
+</component>
